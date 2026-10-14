@@ -1,0 +1,11 @@
+# Dataset (se descarga aparte)
+dataset/
+
+# Salidas generadas al ejecutar
+Resultados/
+
+# Entorno virtual y caché de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
